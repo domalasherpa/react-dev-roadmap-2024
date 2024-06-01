@@ -68,39 +68,40 @@ You should know and be comfortable with **all of the following:**
 You should know and be comfortable with **all of the following:**
 
 -   **Getting Started with React**
-    -   Introduction to React - Why React - Comparison with Vanilla JS
-    -   React Installation & Editor Setup with Vite
-    -   How React works - Virtual DOM
-    -   Basics of React Components
-    -   Basics of JSX: React's Markup
-    -   JavaScript in JSX
-    -   Passing Props to Components
-    -   Conditional Rendering
-    -   Rendering Lists
-    -   Pure Components
-    -   How to split larger components into smaller ones
+* [ ] **Week 1 [June 1 - 7]**
+    * [x]  Introduction to React - Why React - Comparison with Vanilla JS
+    * [x]  React Installation & Editor Setup with Vite
+    * [ ]   How React works - Virtual DOM
+    * [ ]   Basics of React Components
+    * [ ]   Basics of JSX: React's Markup
+    * [ ]   JavaScript in JSX
+    * [ ]   Passing Props to Components
+    * [ ]   Conditional Rendering
+    * [ ]   Rendering Lists
+    * [ ]   Pure Components
+    * [ ]   How to split larger components into smaller ones
 -   **Adding Interactivity**
 
-    -   Responding to Events - Event Handlers
-    -   Understanding States - React Component's Memory - useState
-    -   How State works in React
-    -   How Rendering works in React
-    -   Updating complex states immutably in React
+    * [ ]   Responding to Events - Event Handlers
+    * [ ]   Understanding States - React Component's Memory - useState
+    * [ ]   How State works in React
+    * [ ]  How Rendering works in React
+    * [ ]   Updating complex states immutably in React
 
 -   **React State Management Deep Dive**
 
-    -   Declarative vs Imperative UI
-    -   Thinking UI Declaratively
-    -   Finding & Structuring React States
-    -   Connecting Event Handlers to React
-    -   Sharing State between components
-    -   Lifting State up
-    -   Extracting State Logic into Reducers
-    -   useReducer Hook
-    -   How to use Immer with React for concised immutable State Update
-    -   Passing Data Deeply inside React Components
-    -   Avoiding Prop Drilling - Context API & useContext Hook
-    -   Combine context and reducer to write scalable code
+    * [ ]   Declarative vs Imperative UI
+    * [ ]   Thinking UI Declaratively
+    * [ ]   Finding & Structuring React States
+    * [ ]   Connecting Event Handlers to React
+    * [ ]   Sharing State between components
+    * [ ]   Lifting State up
+    * [ ]   Extracting State Logic into Reducers
+    * [ ]   useReducer Hook
+    * [ ]   How to use Immer with React for concised immutable State Update
+    * [ ]   Passing Data Deeply inside React Components
+    * [ ]   Avoiding Prop Drilling - Context API & useContext Hook
+    * [ ]   Combine context and reducer to write scalable code
 
 </details>
 
