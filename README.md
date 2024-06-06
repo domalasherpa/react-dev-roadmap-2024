@@ -71,13 +71,13 @@ You should know and be comfortable with **all of the following:**
 * [ ] **Week 1 [June 1 - 7]**
     * [x]  Introduction to React - Why React - Comparison with Vanilla JS
     * [x]  React Installation & Editor Setup with Vite
-    * [ ]   How React works - Virtual DOM
-    * [ ]   Basics of React Components
-    * [ ]   Basics of JSX: React's Markup
-    * [ ]   JavaScript in JSX
-    * [ ]   Passing Props to Components
-    * [ ]   Conditional Rendering
-    * [ ]   Rendering Lists
+    * [x]   How React works - Virtual DOM
+    * [x]   Basics of React Components
+    * [x]   Basics of JSX: React's Markup
+    * [x]   JavaScript in JSX
+    * [x]   Passing Props to Components
+    * [x]   Conditional Rendering
+    * [x]   Rendering Lists
     * [ ]   Pure Components
     * [ ]   How to split larger components into smaller ones
 -   **Adding Interactivity**
